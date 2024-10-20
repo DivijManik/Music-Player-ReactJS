@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="24px" viewBox="0 -960 960 960" width="24px" fill="#e8eaed" xmlns="http://www.w3.org/2000/svg">
+  <path d="M520-200v-560h240v560H520Zm-320 0v-560h240v560H200Zm400-80h80v-400h-80v400Zm-320 0h80v-400h-80v400Zm0-400v400-400Zm320 0v400-400Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 257.828 -713.686 L 401.557 -713.176 L 399.757 -236.961 C 399.757 -236.961 245.638 -243.32 245.638 -242.793"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 571.8 -719.868 L 731.9 -720.334 L 722.916 -239.649 L 559.374 -244.303"/>
+</svg>
