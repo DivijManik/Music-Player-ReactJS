@@ -1,3 +1,15 @@
+# Music Player (Youtube Music Clone)
+
+### This is a fully functional Music player made in React.js
+### It is fully responsive to all screen sizes.
+
+- Screenshot
+
+![Screenshot 1](https://github.com/user-attachments/assets/aa4e3337-7215-41a3-95ac-f45f7ff5bd16)
+
+
+# ---------- Info About ReactJS ----------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
