@@ -8,9 +8,9 @@
 ![Screenshot 1](https://github.com/user-attachments/assets/aa4e3337-7215-41a3-95ac-f45f7ff5bd16)
 
 
-# ---------- Info About ReactJS ----------
+# Info About ReactJS 
 
-# Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
