@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Music-Player-ReactJS/static/css/main.5cad611e.css",
+    "main.css": "/Music-Player-ReactJS/static/css/main.47265d89.css",
     "main.js": "/Music-Player-ReactJS/static/js/main.6ca30f69.js",
     "static/js/453.b120470c.chunk.js": "/Music-Player-ReactJS/static/js/453.b120470c.chunk.js",
     "static/media/LoveSong.mp3": "/Music-Player-ReactJS/static/media/LoveSong.a8dc8fbc95b451b07e18.mp3",
@@ -30,12 +30,12 @@
     "static/media/skip-next.svg": "/Music-Player-ReactJS/static/media/skip-next.47573f3bdc606580a20ef3a53db17ac8.svg",
     "static/media/menu.svg": "/Music-Player-ReactJS/static/media/menu.444d0e11927b4093fcb9984b421bfade.svg",
     "static/media/add.svg": "/Music-Player-ReactJS/static/media/add.f29ad617d36abaeb6499cb02f0a066e6.svg",
-    "main.5cad611e.css.map": "/Music-Player-ReactJS/static/css/main.5cad611e.css.map",
+    "main.47265d89.css.map": "/Music-Player-ReactJS/static/css/main.47265d89.css.map",
     "main.6ca30f69.js.map": "/Music-Player-ReactJS/static/js/main.6ca30f69.js.map",
     "453.b120470c.chunk.js.map": "/Music-Player-ReactJS/static/js/453.b120470c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cad611e.css",
+    "static/css/main.47265d89.css",
     "static/js/main.6ca30f69.js"
   ]
 }
